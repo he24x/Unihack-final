@@ -1,2 +1,2 @@
 # Unihack-final
-Project for Unihack
+Project for Unihack BlackSeaProject
